@@ -2,7 +2,7 @@
 // global variables for connecting to database
 $host = "localhost";
 $user = "root";
-$pass = "password";
+$pass = "";
 $db = "Employee";
 
 function loginPage() {
